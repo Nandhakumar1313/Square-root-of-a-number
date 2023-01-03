@@ -18,13 +18,13 @@ To write a program to find the square root of a number.
 ```
 /*
 Program to find the square root for the given number(newton's method) using function.
-Developed by: 
-RegisterNumber:  
+Developed by:G.R.Nandhakumar
+RegisterNumber:22001737 
 */
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
+![](./square%20root.png)
 
 
 ## Result:
